@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="YOUR_BANNER_LINK" />
+  <img src="" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shreya Pandey</h1>
@@ -22,10 +22,7 @@ Always exploring, always learning 🚀
 - UI/UX Design
 
 ### 📫 Reach me at
-**shreyaapandeyy@gmail.com**
-
-### ⚡ Fun fact
-I enjoy building side projects that look simple but work smart 😄
+**pandeyshreya405@gmail.com**
 
 ---
 
@@ -36,15 +33,7 @@ I enjoy building side projects that look simple but work smart 😄
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreyaapandeyy&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyaapandeyy&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### ✨ Typing Animation
+### ✨
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Frontend+Developer;React+Lover;UI+Enthusiast;Always+Learning" />
 </p>
