@@ -1,9 +1,5 @@
 
 
-<p align="center">
-  <img src="https://github.com/Shreyaapandeyy/Shreyaapandeyy/blob/main/image.png" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Shreya Pandey</h1>
 
 <h3 align="center">Frontend Developer | React • JavaScript • Tailwind CSS</h3>
