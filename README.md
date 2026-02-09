@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="" />
+  <img src="https://github.com/Shreyaapandeyy/Shreyaapandeyy/blob/main/image.png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shreya Pandey</h1>
